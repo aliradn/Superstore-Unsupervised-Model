@@ -31,7 +31,7 @@
 2. data from https://www.kaggle.com/vivek468/superstore-dataset-final
 3. data dictionary
 4. The dataset has 21 columns and 9994 rows.
-
+5. Dictionary :
 - Row ID => Unique ID for each row.
 - Order ID => Unique Order ID for each Customer.
 - Order Date => Order Date of the product.
